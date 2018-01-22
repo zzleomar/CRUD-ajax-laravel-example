@@ -1,0 +1,1 @@
+# CRUD ajax-laravel example
